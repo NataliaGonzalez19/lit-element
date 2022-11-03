@@ -1,7 +1,7 @@
 import { css } from 'lit-element';
 export default css`
 :host{
-    display block;
+    display: block;
   }
   .container{
     text-align: center;
